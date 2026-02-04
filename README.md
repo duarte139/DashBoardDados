@@ -8,6 +8,8 @@
 
 Um projeto de análise de dados completo que transforma datasets brutos em insights visuais. Esta aplicação utiliza **Python** para processamento de dados e **Streamlit** para criar uma interface interativa web, permitindo a exploração dinâmica de gráficos gerados com **Plotly**, **Seaborn** e **Matplotlib**.
 
+[🚀 Clique aqui para acessar o Dashboard em tempo real](https://dashboarddados-alura2026.streamlit.app/)
+
 ---
 
 ## 🚀 Funcionalidades
